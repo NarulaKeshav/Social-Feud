@@ -1,5 +1,5 @@
 # Social Feud
-My version of the most popular game, 2048.
+New copy of my game man!
 
 Made just for fun. [Play it here!](http://narulakeshav.github.io/social-feud)
 
